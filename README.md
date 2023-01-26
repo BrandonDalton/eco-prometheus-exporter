@@ -20,7 +20,7 @@ docker run -d -it -p 9877:9877 -e APP_HOST="http://0.0.0.0" --name eco-prometheu
 
 | Metric Name | Description |
 |-------------|-------------|
-|world_animals             |             |
+|world_animals             |  Number of animals in the world           |
 |world_plants             |             |
 |online_players             |             |
 |total_player             |             |
