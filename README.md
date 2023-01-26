@@ -1,3 +1,2 @@
 # eco-prometheus-exporter
-
-![alt text](banner.png)
+<img src="banner.png" width="100%" >
