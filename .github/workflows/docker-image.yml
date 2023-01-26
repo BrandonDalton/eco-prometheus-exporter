@@ -5,6 +5,10 @@ on:
  push:
     branches:
       - 'main'
+    paths-ignore:
+      - '.github/**'
+      - '!.github/workflows/docker-image.yml'
+      - '**.md'
       
 jobs:
   docker:
