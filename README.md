@@ -30,3 +30,5 @@ docker run -d -it -p 9877:9877 -e APP_HOST="http://0.0.0.0" --name eco-prometheu
 |max_active_players             | Max number of active players             |
 |trades             | Number of trades            |
 |contracts           | Number of contracts             |
+
+## Grafana Dashboards
