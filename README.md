@@ -16,6 +16,18 @@ docker run -d -it -p 9877:9877 -e APP_HOST="http://0.0.0.0" --name eco-prometheu
 
 ## Local Setup
 
+Pip Requirements Command
+
+```
+pip install -r requirements.txt
+```
+
+Running the Exporter
+
+```
+python3 main.py
+```
+
 ## Metrics Gathered
 
 | Metric Name | Description |
