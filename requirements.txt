@@ -1,0 +1,5 @@
+charset-normalizer
+idna              
+prometheus-client  
+requests           
+urllib3            
