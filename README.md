@@ -44,3 +44,7 @@ python3 main.py
 |contracts           | Number of contracts             |
 
 ## Grafana Dashboards
+
+https://grafana.com/grafana/dashboards/17983-eco-server-stats/
+
+Simple dashboard that exports these metrics
